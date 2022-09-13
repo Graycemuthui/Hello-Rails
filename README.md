@@ -1,24 +1,42 @@
-# README
+# Hello Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- This project is a learning base on how to setup rails and display **Hello World** to the server.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
 
-* System dependencies
+### Clone it in your local machine using GIT
 
-* Configuration
+to get a local copy , clone the repository using git clone
+(git@github.com:Graycemuthui/Hello-Rails.git)
 
-* Database creation
+After you clone it run the following commands
 
-* Database initialization
+```run rails
 
-* How to run the test suite
+  rails s
 
-* Services (job queues, cache servers, search engines, etc.)
+```
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Grace Muthui**
+
+- GitHub: [@Grayce Muthui](https://github.com/Graycemuthui)
+- Twitter: [@Grayce_Muthui](https://twitter.com/Grayce_Muthui)
+- LinkedIn: [@Grayce Muthui](http://www.linkedin.com/in/grayce-muthui-a17294226)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Graycemuthui/Hello-Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](https://github.com/Graycemuthui/Hello-Rails/blob/dev/LICENSE) licensed.
